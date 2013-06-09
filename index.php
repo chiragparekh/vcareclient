@@ -1,6 +1,5 @@
 <?php
-    //i dont want this first comment okey....
-    //we have so many comments..he he
+    //index.php
 	include("includes/client_authentication.php");
 ?>
 <!DOCTYPE html>
