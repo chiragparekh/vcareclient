@@ -1,5 +1,6 @@
 <?php
-    //this is index.php file
+    //i dont want this first comment okey....
+    //we have so many comments..he he
 	include("includes/client_authentication.php");
 ?>
 <!DOCTYPE html>
